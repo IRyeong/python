@@ -1,3 +1,3 @@
 # Python_practice
 
-## jobscrapper : a simple job scrapper from stackoverflow, weworkremotely, and remoteok websites.
+- jobscrapper : a simple job scrapper from stackoverflow, weworkremotely, and remoteok websites.
